@@ -1,0 +1,375 @@
+@media screen and (max-width: 1130px) {
+  .acc-info-new {
+    display: none;
+  }
+  .nav-links-b p {
+    display: none;
+  }
+  .nav-link-anchor p {
+    display: none;
+  }
+  .logo-img {
+    display: none;
+  }
+  .insta-logo-2 {
+    display: block;
+    padding-left: 2.3rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+  .nav-links-b {
+    padding-right: 0rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+  }
+  .nav-links {
+    padding-right: 0rem;
+    padding-bottom: 1rem;
+  }
+  .nav-icons {
+    margin-right: 0px;
+  }
+  .fa-house {
+    margin-right: 0px;
+  }
+}
+@media screen and (max-width: 1058px) {
+  .story-section {
+    padding-left: 25rem;
+  }
+  .post-img-div {
+    padding-left: 21rem;
+  }
+  .acc-info {
+    transform: translate(330px, 0px);
+  }
+  .post-info-div {
+    margin-left: 33rem;
+  }
+  .post-info-div-m {
+    margin-left: 12rem;
+  }
+  .more-icon-1 {
+    margin-left: 22rem;
+  }
+  .more-icon-2 {
+    margin-left: 24rem;
+  }
+  .more-icon-3 {
+    margin-left: 22rem;
+  }
+  .more-icon-4 {
+    margin-left: 24rem;
+  }
+  .more-icon-5 {
+    margin-left: 24rem;
+  }
+}
+@media screen and (max-width: 966px) {
+  .story-section {
+    padding-left: 20rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -5rem;
+  }
+}
+@media screen and (max-width: 930px) {
+  .story-section {
+    padding-left: 17rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -7rem;
+  }
+}
+@media screen and (max-width: 891px) {
+  .story-section {
+    padding-left: 14rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -10rem;
+  }
+}
+@media screen and (max-width: 818px) {
+  .story-section {
+    padding-left: 12rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -12rem;
+  }
+}
+@media screen and (max-width: 785px) {
+  .story-section {
+    padding-left: 11rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -14rem;
+  }
+}
+@media screen and (max-width: 785px) {
+  .story-section {
+    padding-left: 7rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -19rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .story-section {
+    padding-left: 5rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -21rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 713px) {
+  .story-section {
+    padding-left: 4rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -22rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 705px) {
+  .story-section {
+    padding-left: 3.5rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -22rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 690px) {
+  .story-section {
+    padding-left: 3rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -23rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 680px) {
+  .story-section {
+    padding-left: 3rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -23rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 677px) {
+  .story-section {
+    padding-left: 2.5rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -22rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 678px) {
+  .story-section {
+    padding-left: 2rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -23rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 660px) {
+  .story-section {
+    padding-left: 1.8rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -23rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 645px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -23rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 609px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -26rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 591px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -27rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 571px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -28rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 564px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -29rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 552px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -28.5rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 539px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -29.3rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 535px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -29.6rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 528px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -29.9rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 517px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -30.5rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 516px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -30.7rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 514px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -30.9rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 508px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -31rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 506px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -31.5rem;
+  }
+  .nav {
+    display: none;
+  }
+}
+@media screen and (max-width: 503px) {
+  .story-section {
+    padding-left: 1rem;
+  }
+  .acc-post-acc-info {
+    margin-left: -31.9rem;
+  }
+  .nav {
+    display: none;
+  }
+  .post-img {
+    width: 45.9rem;
+  }
+}
